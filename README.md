@@ -55,9 +55,10 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 plt.show()
 ```
+#Output
 
-# Result
 <img width="927" height="659" alt="Screenshot 2026-05-25 223440" src="https://github.com/user-attachments/assets/17245ca8-f55c-4a1d-a1a9-53ad787b4671" />
 
 
-# Output 
+# Result 
+Thus, the program to to analyze given data using co-efficient of correlation and regression line has been done successfully.
